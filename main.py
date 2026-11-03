@@ -1,1 +1,2 @@
 
+print("Addabazz Bot Ready")
